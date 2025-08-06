@@ -1,0 +1,41 @@
+{
+      "name": "All-Same Scores Case – 5 Identical Agents",
+      "siteKitty": 999,
+      "salesAgents": [
+        {
+          "id": "B1",
+          "performanceScore": 50,
+          "seniorityMonths": 10,
+          "targetAchievedPercent": 50,
+          "activeClients": 5
+        },
+        {
+          "id": "B2",
+          "performanceScore": 50,
+          "seniorityMonths": 10,
+          "targetAchievedPercent": 50,
+          "activeClients": 5
+        },
+        {
+          "id": "B3",
+          "performanceScore": 50,
+          "seniorityMonths": 10,
+          "targetAchievedPercent": 50,
+          "activeClients": 5
+        },
+        {
+          "id": "B4",
+          "performanceScore": 50,
+          "seniorityMonths": 10,
+          "targetAchievedPercent": 50,
+          "activeClients": 5
+        },
+        {
+          "id": "B5",
+          "performanceScore": 50,
+          "seniorityMonths": 10,
+          "targetAchievedPercent": 50,
+          "activeClients": 5
+        }
+      ]
+    }

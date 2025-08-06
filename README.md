@@ -10,6 +10,9 @@ pip install -r requirements.txt
 ## Usage
 ```bash
 python cli.py --input sample_input.json --config config.json
+python cli.py --input testinput1.json --config config.json
+python cli.py --input testinput2.json --config config.json
+python cli.py --input testinput3.json --config config.json
 ```
 
 ## Structure

@@ -1,0 +1,20 @@
+{
+      "name": "Rounding Edge Case – 2 Agents, Small Kitty",
+      "siteKitty": 5,
+      "salesAgents": [
+        {
+          "id": "C1",
+          "performanceScore": 1,
+          "seniorityMonths": 1,
+          "targetAchievedPercent": 1,
+          "activeClients": 1
+        },
+        {
+          "id": "C2",
+          "performanceScore": 0,
+          "seniorityMonths": 0,
+          "targetAchievedPercent": 0,
+          "activeClients": 0
+        }
+      ]
+    }
