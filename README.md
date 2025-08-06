@@ -1,4 +1,4 @@
-# Smart-Discount-Allocation-Engine
+# Smart Discount Allocation Engine
 
 This project is a Python CLI tool to allocate a discount kitty among sales agents based on configurable, data-driven logic.
 
